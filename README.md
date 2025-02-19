@@ -16,8 +16,8 @@ The model is trained and tested using the UnsafeBench dataset, which contains la
 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KisoreD/Image-Sensitive-Content-Removal.git
+cd Image-Sensitive-Content-Removal
 
 2️⃣ Install Dependencies
 Ensure you have Python 3.8+ installed. Then, install the required libraries:
