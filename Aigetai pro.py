@@ -41,5 +41,5 @@ def process_images(folder_path):
             print(f"Removed: {image_file}")
         else:
             print(f"Kept: {image_file}")
-folder_path = "D:\output_image"  
+folder_path = "D:\output_image"  #use ur folder path and upload the image that u want to test
 process_images(folder_path)
